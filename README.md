@@ -24,11 +24,12 @@ Ejemplo visual del proyecto:
 ## 📁 Acceso al proyecto  
 
 Puedes acceder al código fuente del proyecto en este repositorio:  
-[https://github.com/mvrlenny/Portafolio-sobre-las-caracter-sticas-profesionales-de-Ana-Garc-a]
+[https://portafolio-sobre-las-caracter-stica.vercel.app]
+
 
 ## 🛠️ Abrir y ejecutar el proyecto  
 
 1. Clona este repositorio:  
    ```bash
-   git clone: [https://portafolio-sobre-las-caracter-stica.vercel.app]
+   git clone: [https://github.com/mvrlenny/Portafolio-sobre-las-caracter-sticas-profesionales-de-Ana-Garc-a]
 
